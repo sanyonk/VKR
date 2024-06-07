@@ -4,7 +4,7 @@
 Сервис по суммаризации и извлечению метрик из новостных статей разработан для аналитиков безопасности, чтобы они могли за короткий промежуток времени извлекать метрики из текста, при этом сам текст новости читать не требуется. Сервис разработан для новостных статей на английском языке. 
 
 ## Как запускать сервис
-Для того, чтобы запустить сервис, нужно перейти в директорию, где лежит файл ```run news_reader_app.py```, а далее запустить команду, которая представлена ниже:
+Для того, чтобы запустить сервис, нужно перейти в директорию, где лежит файл ```news_reader_app.py```, а далее запустить команду, которая представлена ниже:
 ```sh
 streamlit run news_reader_app.py
 ```
@@ -17,3 +17,6 @@ https://thehackernews.com/2024/02/us-doj-dismantles-warzone-rat.html
 https://thehackernews.com/2024/03/exit-scam-blackcat-ransomware-group.html
 https://thehackernews.com/2024/02/authorities-claim-lockbit-admin.html
 ```
+
+## Демонстрация работы
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN4ejl3czZrYnMwNXE0bzduYXE0djRpNHBvcDlidDZxZG0yeG5zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fyZ9HWSZBD6MIYHgE2/giphy.gif)
