@@ -22,5 +22,11 @@ https://thehackernews.com/2024/03/exit-scam-blackcat-ransomware-group.html
 https://thehackernews.com/2024/02/authorities-claim-lockbit-admin.html
 ```
 
-## Демонстрация работы
+## Демонстрация работы сервиса
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN4ejl3czZrYnMwNXE0bzduYXE0djRpNHBvcDlidDZxZG0yeG5zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fyZ9HWSZBD6MIYHgE2/giphy.gif)
+
+## Возможные ошибки при работе
+Иногда могут возникать такие ошибки:
+![](https://sun9-79.userapi.com/impg/6jaYKlfJ5GU2CWGrSh34IpmDZuiEKTqS8S3g9g/UtcbvIo_bqs.jpg?size=649x246&quality=96&sign=38ad443ae06c48a5e1b08e148ccde312&type=album)
+Возникают они, потому что иногда ломается API Hugging Face.
+Чтобы исправить - нужно просто заново нажать кнопку "Прочитать новость", сам сервис перезапускать не нужно.
