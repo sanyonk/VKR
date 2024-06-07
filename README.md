@@ -14,7 +14,11 @@ streamlit run news_reader_app.py
 Ниже представлены ссылки на новости о кибератаках на английском языке, которые можно вставить в сервис и получить метрики из текста:
 ```sh
 https://thehackernews.com/2024/02/us-doj-dismantles-warzone-rat.html
+```
+```sh
 https://thehackernews.com/2024/03/exit-scam-blackcat-ransomware-group.html
+```
+```sh
 https://thehackernews.com/2024/02/authorities-claim-lockbit-admin.html
 ```
 
