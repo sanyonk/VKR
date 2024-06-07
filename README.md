@@ -19,7 +19,7 @@ https://thehackernews.com/2024/02/us-doj-dismantles-warzone-rat.html
 https://thehackernews.com/2024/03/exit-scam-blackcat-ransomware-group.html
 ```
 ```sh
-https://thehackernews.com/2024/02/authorities-claim-lockbit-admin.html
+https://www.theregister.com/2024/03/06/capita_says_2023_cyberattack_recovery/
 ```
 
 ## Демонстрация работы сервиса
@@ -30,4 +30,4 @@ https://thehackernews.com/2024/02/authorities-claim-lockbit-admin.html
 ![](https://sun9-79.userapi.com/impg/6jaYKlfJ5GU2CWGrSh34IpmDZuiEKTqS8S3g9g/UtcbvIo_bqs.jpg?size=649x246&quality=96&sign=38ad443ae06c48a5e1b08e148ccde312&type=album)
 
 Возникают они, потому что иногда ломается API Hugging Face.
-Чтобы исправить - нужно просто заново нажать кнопку "Прочитать новость", сам сервис перезапускать не нужно.
+Чтобы исправить - нужно просто заново нажать кнопку "Прочитать новость" или обновить страничку, сам сервис перезапускать не нужно.
